@@ -1,0 +1,11 @@
+.timeline {
+  max-width: 800px;
+  margin: auto;
+}
+
+.timeline-card {
+  background: #0f172a;
+  padding: 20px;
+  border-radius: 15px;
+  margin-bottom: 20px;
+}
