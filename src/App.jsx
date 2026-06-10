@@ -1,15 +1,15 @@
 import { BrowserRouter, Routes, Route } from "react-router-dom";
 
-import Pocket from "./components/Pocket";
-import Home from "./pages/Home";
-import About from "./pages/About";
-import Education from "./pages/Education";
-import Skills from "./pages/Skills";
-import Projects from "./pages/Projects";
-import Experience from "./pages/Experience";
-import Certifications from "./pages/Certifications";
-import Achievements from "./pages/Achievements";
-import Contact from "./pages/Contact";
+import Pocket from "./components/pocket";
+import Home from "./pages/home";
+import About from "./pages/about";
+import Education from "./pages/education";
+import Skills from "./pages/skills";
+import Projects from "./pages/projects";
+import Experience from "./pages/experience";
+import Certifications from "./pages/certifications";
+import Achievements from "./pages/achievements";
+import Contact from "./pages/contact";
 
 
 function App() {
