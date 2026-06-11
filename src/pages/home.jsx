@@ -1,7 +1,7 @@
 import { useNavigate } from "react-router-dom";
-import "../styles/Home.css";
+import "../styles/home.css";
 import doraemon from "../assets/doraemon.png";
-import Footer from "../components/Footer";
+import Footer from "../components/tempFooter.jsx";
 
 function Home() {
   const navigate = useNavigate();

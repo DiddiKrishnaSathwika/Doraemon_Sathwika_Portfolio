@@ -1,7 +1,7 @@
 import { motion } from "framer-motion";
-import BackButton from "../components/BackButton";
+import BackButton from "../components/tempBack.jsx";
 import profile from "../assets/profile.jpg";
-import Footer from "../components/Footer";
+import Footer from "../components/tempFooter.jsx";
 
 function About() {
   return (

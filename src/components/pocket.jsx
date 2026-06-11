@@ -10,7 +10,7 @@ import tv from "../assets/gadgets/time-television.png";
 import phone from "../assets/gadgets/time-telephone.png";
 import cloth from "../assets/gadgets/time-cloth.png";
 
-import "../styles/Pocket.css";
+import "../styles/pocket.css";
 
 function Pocket() {
   const navigate = useNavigate();

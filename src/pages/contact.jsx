@@ -1,6 +1,6 @@
 import { motion } from "framer-motion";
-import BackButton from "../components/BackButton";
-import Footer from "../components/Footer";
+import BackButton from "../components/tempBack.jsx";
+import Footer from "../components/tempFooter.jsx";
 
 function Contact() {
   return (

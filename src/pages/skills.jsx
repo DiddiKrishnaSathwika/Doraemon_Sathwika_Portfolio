@@ -1,5 +1,5 @@
-import BackButton from "../components/BackButton";
-import "../styles/Skills.css";
+import BackButton from "../components/tempBack.jsx";
+import "../styles/skills.css";
 import copter from "../assets/gadgets/take-copter.png";
 import { motion } from "framer-motion";
 
